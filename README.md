@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am currently an undergraduate majoring in Automation at Shenzhen University, with a minor in Computer Science and Technology.
+- 🔭 I’m currently working on multi-fidelity fusion research
+- 📫 How to reach me: filliplululu@gmail.com
 <!--
 **Fillip1233/Fillip1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
