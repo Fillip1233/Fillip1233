@@ -1,5 +1,5 @@
 ### Hi there！
-I am currently an undergraduate.
+I am currently an graduate student.
 - 📫 How to reach me: filliplululu@gmail.com
 <!--
 **Fillip1233/Fillip1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
