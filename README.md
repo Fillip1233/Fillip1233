@@ -2,7 +2,7 @@
 
 ### Postgraduate student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fillip1233&label=Profile views&color=0e75b6&style=flat" alt="Fillip1233" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fillip1233&label=Profile views&color=0e75b6&style=flat" alt="Fillip1233" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/zhenjie22275" target="blank"><img src="https://img.shields.io/twitter/follow/zhenjie22275?logo=twitter&style=for-the-badge" alt="zhenjie22275" /></a> </p>
 
